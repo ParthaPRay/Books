@@ -3,6 +3,11 @@
 
 I have written following books till now.
 
+
+*	Ray. P. P., Ray, A., “Metaverse Unbound : Exploring Infinite Possibilities in the Digital Frontier”, Notion Press, ISBN: 979-8890265005, 2023.
+
+https://www.amazon.in/dp/B0C46GR54W
+
 *	Ray. P. P., Ray, A., “A Handbook on Community Based Participatory Research”, New Delhi Publishers, ISBN: 978-93-93878-30-4, 2022. 
 
 https://www.amazon.in/Handbook-Community-Based-Paricipatory-Research/dp/B0B427L5YP/ref=sr_1_5?crid=2YOK3VEZ1U225&keywords=partha+pratim+ray&qid=1681018780&sprefix=partha+pratim+ray%2Caps%2C255&sr=8-5
