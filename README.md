@@ -1,8 +1,10 @@
 # Books
 
 
-I have written following books till now.
+I have written and compiled following books till now.
 
+
+*	Ray. P. P., Ray, A., “The Great Mathematicians of Bharat”, Rajmangal Publishers, ISBN: 9788119251841, 2023.
 
 *	Ray. P. P., Ray, A., “Metaverse Unbound : Exploring Infinite Possibilities in the Digital Frontier”, Notion Press, ISBN: 979-8890265005, 2023.
 
